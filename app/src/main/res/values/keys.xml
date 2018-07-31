@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="max_high_score_key">max_high_score_key</string>
+    <string name="max_high_score_nquestions_key">max_high_score_nquestions_key</string>
+
+    <string name="last_score_key">last_score_key</string>
+    <string name="last_score_nquestions_key">last_score_nquestions_key</string>
+
+</resources>

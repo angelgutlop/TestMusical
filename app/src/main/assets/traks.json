@@ -1,0 +1,803 @@
+{
+  "MUSICA" : [ {
+    "ID0" : {
+      "COMPOSITOR" : "Edvard Hagerup Grieg",
+      "ARCHIVO" : "6PianoPiecesArrangedFromSongs,Op.41-Num3.ogg",
+      "NOMBRE_CANCION" : "Yo también te quiero, Op. 41/3",
+      "GENERO" : "Classical",
+      "AÑO" : "1864"
+    }
+  }, {
+    "ID1" : {
+      "COMPOSITOR" : "Antonín Leopold Dvořák",
+      "ARCHIVO" : "7Zigeunermelodien,Op.55,B104-SongsMyMotherTaughtMe.ogg",
+      "NOMBRE_CANCION" : " Canciones que mi madre me enseñó (7 melodías gitanas)",
+      "GENERO" : "Classical",
+      "AÑO" : "1880"
+    }
+  }, {
+    "ID2" : {
+      "COMPOSITOR" : "Tomaso Giovanni Albinoni",
+      "ARCHIVO" : "AdagioInGMinor.ogg",
+      "NOMBRE_CANCION" : "Adagio In G Minor",
+      "GENERO" : "Classical",
+      "AÑO" : "1730"
+    }
+  }, {
+    "ID3" : {
+      "COMPOSITOR" : "Robert Schumann",
+      "ARCHIVO" : "AlbumForTheYoung,Op.68-10-TheMerryPeasant.ogg",
+      "NOMBRE_CANCION" : "El campesino feliz (Album para la juventud)",
+      "GENERO" : "Classical",
+      "AÑO" : "1848"
+    }
+  }, {
+    "ID4" : {
+      "COMPOSITOR" : "Richard Strauss",
+      "ARCHIVO" : "AlsoSprachZarathustra,Op.30-OpeningFanfare.ogg",
+      "NOMBRE_CANCION" : "Así habló Zarathustra - Obertura",
+      "GENERO" : "Classical",
+      "AÑO" : "1896"
+    }
+  }, {
+    "ID5" : {
+      "COMPOSITOR" : "Ludwig van Beethoven",
+      "ARCHIVO" : "BagatelleInAMinor,WoO59,-FürElise-.ogg",
+      "NOMBRE_CANCION" : "Para Elisa",
+      "GENERO" : "Classical",
+      "AÑO" : "1810"
+    }
+  }, {
+    "ID6" : {
+      "COMPOSITOR" : "Johann Strauss Jr.",
+      "ARCHIVO" : "BlueDanube,Op.314.ogg",
+      "NOMBRE_CANCION" : "Danubio azul",
+      "GENERO" : "Classical",
+      "AÑO" : "1867"
+    }
+  }, {
+    "ID7" : {
+      "COMPOSITOR" : "Maurice Ravel",
+      "ARCHIVO" : "Boléro.ogg",
+      "NOMBRE_CANCION" : "Boléro",
+      "GENERO" : "Classical",
+      "AÑO" : "1928"
+    }
+  }, {
+    "ID8" : {
+      "COMPOSITOR" : "Johann Sebastian Bach",
+      "ARCHIVO" : "BrandenburgConcertoNum3InG,BWV1048-1.AllegroModerato.ogg",
+      "NOMBRE_CANCION" : "Concierto de Brandenburgo  n.º 3",
+      "GENERO" : "Classical",
+      "AÑO" : "1721"
+    }
+  }, {
+    "ID9" : {
+      "COMPOSITOR" : "Johann Pachelbel",
+      "ARCHIVO" : "CanonInD.ogg",
+      "NOMBRE_CANCION" : "Canon en Re",
+      "GENERO" : "Classical",
+      "AÑO" : "1698"
+    }
+  }, {
+    "ID10" : {
+      "COMPOSITOR" : "Nikolai Rimsky-Korsakov",
+      "ARCHIVO" : "CapriccioEspagnol,Op.34-Alborado.ogg",
+      "NOMBRE_CANCION" : "Capricho Español - Alborado",
+      "GENERO" : "Classical",
+      "AÑO" : "1887"
+    }
+  }, {
+    "ID11" : {
+      "COMPOSITOR" : "Johann Sebastian Bach",
+      "ARCHIVO" : "ChristmasOratorio,BWV248-SinfoniaInG.ogg",
+      "NOMBRE_CANCION" : "Oración de Navidad",
+      "GENERO" : "Classical",
+      "AÑO" : "1734"
+    }
+  }, {
+    "ID12" : {
+      "COMPOSITOR" : "Wolfgang Amadeus Mozart",
+      "ARCHIVO" : "ClarinetConcertoInA,K622-Adagio.ogg",
+      "NOMBRE_CANCION" : "Concierto para clarinete K 622",
+      "GENERO" : "Classical",
+      "AÑO" : "1791"
+    }
+  }, {
+    "ID13" : {
+      "COMPOSITOR" : "George Frideric Handel",
+      "ARCHIVO" : "ConcertoGrossoNum4InAMinor,Op.6-4,HWV322.ogg",
+      "NOMBRE_CANCION" : "Gran concierto  n.º 4 Op. 6/4",
+      "GENERO" : "Classical",
+      "AÑO" : "1793"
+    }
+  }, {
+    "ID14" : {
+      "COMPOSITOR" : "Johannes Brahms",
+      "ARCHIVO" : "CradleSong.ogg",
+      "NOMBRE_CANCION" : "Cancion de cuna",
+      "GENERO" : "Classical",
+      "AÑO" : "1868"
+    }
+  }, {
+    "ID15" : {
+      "COMPOSITOR" : "Carl Maria Von Weber",
+      "ARCHIVO" : "DerFreischütz,J277-Overture.ogg",
+      "NOMBRE_CANCION" : "El cazador furtivo, Obertura",
+      "GENERO" : "Classical",
+      "AÑO" : "1820"
+    }
+  }, {
+    "ID16" : {
+      "COMPOSITOR" : "Wilhelm Richard Wagner",
+      "ARCHIVO" : "DieGötterdämmerung,Wwv86D,-TwilightOfTheGods--Siegfred'sDeath&FuneralMarch.ogg",
+      "NOMBRE_CANCION" : "La muerte de Siegfred & Marcha funeral (El ocaso de los dioses)",
+      "GENERO" : "Classical",
+      "AÑO" : "1877"
+    }
+  }, {
+    "ID17" : {
+      "COMPOSITOR" : "Wolfgang Amadeus Mozart",
+      "ARCHIVO" : "DonGiovanni,K527-Overture.ogg",
+      "NOMBRE_CANCION" : "Don Giovanni, Obertura",
+      "GENERO" : "Classical",
+      "AÑO" : "1787"
+    }
+  }, {
+    "ID18" : {
+      "COMPOSITOR" : "Wolfgang Amadeus Mozart",
+      "ARCHIVO" : "EineKleineNachtmusik-Mvt.1.ogg",
+      "NOMBRE_CANCION" : "Pequeña serenata nocturna - Primer movimiento",
+      "GENERO" : "Classical",
+      "AÑO" : "1787"
+    }
+  }, {
+    "ID19" : {
+      "COMPOSITOR" : "Edvard Hagerup Grieg",
+      "ARCHIVO" : "ElegiacMelodies,Op.34-TheLastSpring.ogg",
+      "NOMBRE_CANCION" : "La última primavera (Dos melodías elegíacas)",
+      "GENERO" : "Classical",
+      "AÑO" : "1886"
+    }
+  }, {
+    "ID20" : {
+      "COMPOSITOR" : "Franz Peter Schubert",
+      "ARCHIVO" : "EllensGesangNum3,Op.52-6,D839,-AveMaria-.ogg",
+      "NOMBRE_CANCION" : "Ave Maria",
+      "GENERO" : "Classical",
+      "AÑO" : "1825"
+    }
+  }, {
+    "ID21" : {
+      "COMPOSITOR" : "Peter Ilyich Tchaikovsky",
+      "ARCHIVO" : "EugeneOnegin,Op.24-Polonaise.ogg",
+      "NOMBRE_CANCION" : "Polonesa (Eugenio Oneguin)",
+      "GENERO" : "Classical",
+      "AÑO" : "1878"
+    }
+  }, {
+    "ID22" : {
+      "COMPOSITOR" : "Jean Sibelius",
+      "ARCHIVO" : "Finlandia,Op.26.ogg",
+      "NOMBRE_CANCION" : "Finlandia",
+      "GENERO" : "Classical",
+      "AÑO" : "1899"
+    }
+  }, {
+    "ID23" : {
+      "COMPOSITOR" : "Antonio Vivaldi",
+      "ARCHIVO" : "FluteConcertoInGMinor,Op.10-2,RV439,-LaNotte--Allegro.ogg",
+      "NOMBRE_CANCION" : "La noche, concierto para flauta en sol menor",
+      "GENERO" : "Classical",
+      "AÑO" : "1731"
+    }
+  }, {
+    "ID24" : {
+      "COMPOSITOR" : "Wolfgang Amadeus Mozart",
+      "ARCHIVO" : "FluteConcertoNum2InD-Mvt.2.ogg",
+      "NOMBRE_CANCION" : "Concierto para flauta  n.º 2 - Segundo movimiento",
+      "GENERO" : "Classical",
+      "AÑO" : "1778"
+    }
+  }, {
+    "ID25" : {
+      "COMPOSITOR" : "Franz Peter Schubert",
+      "ARCHIVO" : "GermanDanceNum1.ogg",
+      "NOMBRE_CANCION" : "Danza alemana  n.º 1",
+      "GENERO" : "Classical",
+      "AÑO" : "1811"
+    }
+  }, {
+    "ID26" : {
+      "COMPOSITOR" : "Wolfgang Amadeus Mozart",
+      "ARCHIVO" : "HornConcertoNum3InEFlat-Mvt.2.ogg",
+      "NOMBRE_CANCION" : "Concierto para trompa  n.º 3 en mi bemol - Segundo movimiento",
+      "GENERO" : "Classical",
+      "AÑO" : "1783"
+    }
+  }, {
+    "ID27" : {
+      "COMPOSITOR" : "Antonín Leopold Dvořák",
+      "ARCHIVO" : "HumoresqueInGFlat,Op.101-7.ogg",
+      "NOMBRE_CANCION" : "Humoresca en sol bemol",
+      "GENERO" : "Classical",
+      "AÑO" : "1894"
+    }
+  }, {
+    "ID28" : {
+      "COMPOSITOR" : "Franz Liszt",
+      "ARCHIVO" : "HungarianRhapsodyNum2.ogg",
+      "NOMBRE_CANCION" : "Rapsodia húngara  n.º 2 ",
+      "GENERO" : "Classical",
+      "AÑO" : "1847"
+    }
+  }, {
+    "ID29" : {
+      "COMPOSITOR" : "Gioachino Rossini",
+      "ARCHIVO" : "IlBarbiereDiSiviglia-Overture.ogg",
+      "NOMBRE_CANCION" : "El barbero de sevilla - Obertura",
+      "GENERO" : "Classical",
+      "AÑO" : "1821"
+    }
+  }, {
+    "ID30" : {
+      "COMPOSITOR" : "Robert Schumann",
+      "ARCHIVO" : "Kinderszenen,Op.15-7.Träumerei.ogg",
+      "NOMBRE_CANCION" : "Ensueño (Escenas infantiles)",
+      "GENERO" : "Classical",
+      "AÑO" : "1838"
+    }
+  }, {
+    "ID31" : {
+      "COMPOSITOR" : "Georges Bizet",
+      "ARCHIVO" : "L'Arlesienne-Intermezzo.ogg",
+      "NOMBRE_CANCION" : "La chica de Arles - Intermedio",
+      "GENERO" : "Classical",
+      "AÑO" : "1872"
+    }
+  }, {
+    "ID32" : {
+      "COMPOSITOR" : "Giuseppe Verdi",
+      "ARCHIVO" : "LaTraviata-Act1-Prelude.ogg",
+      "NOMBRE_CANCION" : "La Traviata - Acto 1: Preludio",
+      "GENERO" : "Classical",
+      "AÑO" : "1853"
+    }
+  }, {
+    "ID33" : {
+      "COMPOSITOR" : "Franz Liszt",
+      "ARCHIVO" : "LesPreludes.ogg",
+      "NOMBRE_CANCION" : "Los preludios",
+      "GENERO" : "Classical",
+      "AÑO" : "1854"
+    }
+  }, {
+    "ID34" : {
+      "COMPOSITOR" : "Georges Bizet",
+      "ARCHIVO" : "LesToreadors,from-Carmen-.ogg",
+      "NOMBRE_CANCION" : "La marcha de los toreros (Carmen)",
+      "GENERO" : "Classical",
+      "AÑO" : "1875"
+    }
+  }, {
+    "ID35" : {
+      "COMPOSITOR" : "Franz Liszt",
+      "ARCHIVO" : "Liebesträume,S541-3.OLieb,SoLangDuLiebenKannst.ogg",
+      "NOMBRE_CANCION" : "¡Oh, ama, ama tanto como puedas! (Sueños de amor)",
+      "GENERO" : "Classical",
+      "AÑO" : "1847"
+    }
+  }, {
+    "ID36" : {
+      "COMPOSITOR" : "Franz Von Suppé",
+      "ARCHIVO" : "LightCavalry.ogg",
+      "NOMBRE_CANCION" : "Caballería ligera",
+      "GENERO" : "Classical",
+      "AÑO" : "1866"
+    }
+  }, {
+    "ID37" : {
+      "COMPOSITOR" : "Wilhelm Richard Wagner",
+      "ARCHIVO" : "Lohengrin-Act3-Prelude.ogg",
+      "NOMBRE_CANCION" : "Lohengrin - Acto 3: Preludio",
+      "GENERO" : "Classical",
+      "AÑO" : "1850"
+    }
+  }, {
+    "ID38" : {
+      "COMPOSITOR" : "Antonio Vivaldi",
+      "ARCHIVO" : "MandolinConcertoInC,RV425.ogg",
+      "NOMBRE_CANCION" : "Concierto para mandolina en do",
+      "GENERO" : "Classical",
+      "AÑO" : "1729"
+    }
+  }, {
+    "ID39" : {
+      "COMPOSITOR" : "Peter Ilyich Tchaikovsky",
+      "ARCHIVO" : "MarcheSlave,Op.31.ogg",
+      "NOMBRE_CANCION" : "Marcha Eslava",
+      "GENERO" : "Classical",
+      "AÑO" : "1876"
+    }
+  }, {
+    "ID40" : {
+      "COMPOSITOR" : "Nikolai Rubinstein",
+      "ARCHIVO" : "MelodyInF,Op.3-1.ogg",
+      "NOMBRE_CANCION" : "Melodia en fa",
+      "GENERO" : "Classical",
+      "AÑO" : "1858"
+    }
+  }, {
+    "ID41" : {
+      "COMPOSITOR" : "George Frideric Handel",
+      "ARCHIVO" : "Messiah,HWV56-HallelujahChorus.ogg",
+      "NOMBRE_CANCION" : "El mesías - Coro de Aleluya",
+      "GENERO" : "Classical",
+      "AÑO" : "1742"
+    }
+  }, {
+    "ID42" : {
+      "COMPOSITOR" : "Felix Mendelssohn",
+      "ARCHIVO" : "MidsummerNight'sDream,Op.61-WeddingMarch.ogg",
+      "NOMBRE_CANCION" : "Marcha nupcial (El sueño de una noche de verano)",
+      "GENERO" : "Classical",
+      "AÑO" : "1843"
+    }
+  }, {
+    "ID43" : {
+      "COMPOSITOR" : "Ludwig van Beethoven",
+      "ARCHIVO" : "MinuetInG.ogg",
+      "NOMBRE_CANCION" : "Minueto en sol",
+      "GENERO" : "Classical",
+      "AÑO" : "1796"
+    }
+  }, {
+    "ID44" : {
+      "COMPOSITOR" : "Giuseppe Verdi",
+      "ARCHIVO" : "Nabucco-Overture.ogg",
+      "NOMBRE_CANCION" : "Nabucco - Obertura",
+      "GENERO" : "Classical",
+      "AÑO" : "1842"
+    }
+  }, {
+    "ID45" : {
+      "COMPOSITOR" : "Clément Philibert Léo Delibes",
+      "ARCHIVO" : "Notturno,From-Coppelia-.ogg",
+      "NOMBRE_CANCION" : "Nocturno. de Coppelia",
+      "GENERO" : "Classical",
+      "AÑO" : "1870"
+    }
+  }, {
+    "ID46" : {
+      "COMPOSITOR" : "Johann Sebastian Bach",
+      "ARCHIVO" : "OboeConcertoInDMinor,BWV1059R-Mvt.2.ogg",
+      "NOMBRE_CANCION" : "Concierto para oboe en Re menor - Segundo movimiento",
+      "GENERO" : "Classical",
+      "AÑO" : "1731"
+    }
+  }, {
+    "ID47" : {
+      "COMPOSITOR" : "Johann Sebastian Bach",
+      "ARCHIVO" : "OrchestralSuiteNum2InBMinor,BWV1067-Menuet&Badinerie.ogg",
+      "NOMBRE_CANCION" : "Menuet & Badinerie (Suite para orquesta n.º 2)",
+      "GENERO" : "Classical",
+      "AÑO" : "1721"
+    }
+  }, {
+    "ID48" : {
+      "COMPOSITOR" : "Johann Sebastian Bach",
+      "ARCHIVO" : "OrchestralSuiteNum3InD,BWV1068-2.Air,-OnTheGString-.ogg",
+      "NOMBRE_CANCION" : "Aria para la cuerda de sol (Suite para orquesta n.º 3)",
+      "GENERO" : "Classical",
+      "AÑO" : "1727"
+    }
+  }, {
+    "ID49" : {
+      "COMPOSITOR" : "Christoph Willibald Von Gluck",
+      "ARCHIVO" : "OrfeoEdEuridice-DanceOfTheBlessedSpirits.ogg",
+      "NOMBRE_CANCION" : "Danza de los espíritus bendecidos (Orfeo y Eurídice)",
+      "GENERO" : "Classical",
+      "AÑO" : "1762"
+    }
+  }, {
+    "ID50" : {
+      "COMPOSITOR" : "Jacques Offenbach",
+      "ARCHIVO" : "OrpheusInTheUnderworld-Overture.ogg",
+      "NOMBRE_CANCION" : "Orpheus Ien en inframundo - Obertura",
+      "GENERO" : "Classical",
+      "AÑO" : "1858"
+    }
+  }, {
+    "ID51" : {
+      "COMPOSITOR" : "Edvard Hagerup Grieg",
+      "ARCHIVO" : "PeerGyntSuiteNum1,Op.46-1.Morning.ogg",
+      "NOMBRE_CANCION" : "La mañana (Peer Gynt)",
+      "GENERO" : "Classical",
+      "AÑO" : "1876"
+    }
+  }, {
+    "ID52" : {
+      "COMPOSITOR" : "Peter Ilyich Tchaikovsky",
+      "ARCHIVO" : "PianoConcertoNo.1inBFlatMinor1stMovement[excerpt].ogg",
+      "NOMBRE_CANCION" : "Concierto para piano n.º 1 en si bemol menor - Primer movimiento",
+      "GENERO" : "Classical",
+      "AÑO" : "1875"
+    }
+  }, {
+    "ID53" : {
+      "COMPOSITOR" : "Wolfgang Amadeus Mozart",
+      "ARCHIVO" : "PianoConcertoNum21InC,-ElviraMadigan--Mvt.2.ogg",
+      "NOMBRE_CANCION" : "Elvira Madigan - Segundo movimiento (Concierto para piano n.º 21 en Do)",
+      "GENERO" : "Classical",
+      "AÑO" : "1785"
+    }
+  }, {
+    "ID54" : {
+      "COMPOSITOR" : "Wolfgang Amadeus Mozart",
+      "ARCHIVO" : "PianoConcertoNum23InA-Mvt.1.ogg",
+      "NOMBRE_CANCION" : "Concierto para piano n.º 23 en La - Primer movimiento",
+      "GENERO" : "Classical",
+      "AÑO" : "1786"
+    }
+  }, {
+    "ID55" : {
+      "COMPOSITOR" : "Wolfgang Amadeus Mozart",
+      "ARCHIVO" : "PianoSonataInA-RondoAllaTurca.ogg",
+      "NOMBRE_CANCION" : "Rondo Alla Turca, Sonata para piano en La",
+      "GENERO" : "Classical",
+      "AÑO" : "1778"
+    }
+  }, {
+    "ID56" : {
+      "COMPOSITOR" : "Ludwig van Beethoven",
+      "ARCHIVO" : "PianoSonataNum14InCSharpMinor,Op.27-2,-Moonlight--1.AdagioSostenuto.ogg",
+      "NOMBRE_CANCION" : "Luz de luna",
+      "GENERO" : "Classical",
+      "AÑO" : "1801"
+    }
+  }, {
+    "ID57" : {
+      "COMPOSITOR" : "Franz Von Suppé",
+      "ARCHIVO" : "Poet&Peasant-Overture.ogg",
+      "NOMBRE_CANCION" : "El poeta y el campesino - Obertura",
+      "GENERO" : "Classical",
+      "AÑO" : "1846"
+    }
+  }, {
+    "ID58" : {
+      "COMPOSITOR" : "Fryderyk Franciszek Chopin",
+      "ARCHIVO" : "PolonaiseNum3InA,Op.40-1,-Military-.ogg",
+      "NOMBRE_CANCION" : "Militar",
+      "GENERO" : "Classical",
+      "AÑO" : "1838"
+    }
+  }, {
+    "ID59" : {
+      "COMPOSITOR" : "Edward William Elgar",
+      "ARCHIVO" : "Pomp&CircumstanceMarchNum1InD,Op.39-1-39508.ogg",
+      "NOMBRE_CANCION" : "Pompa y circunstancia, marcha n.º 1",
+      "GENERO" : "Classical",
+      "AÑO" : "1901"
+    }
+  }, {
+    "ID60" : {
+      "COMPOSITOR" : "Richard Wagner",
+      "ARCHIVO" : "RideOfTheValkyries.ogg",
+      "NOMBRE_CANCION" : "Cabalgata de las valquirias",
+      "GENERO" : "Classical",
+      "AÑO" : "1870"
+    }
+  }, {
+    "ID61" : {
+      "COMPOSITOR" : "Franz Peter Schubert",
+      "ARCHIVO" : "Rosamunde,Op.26,D797-D797,BalletMusicInG.ogg",
+      "NOMBRE_CANCION" : "Rosamunde",
+      "GENERO" : "Classical",
+      "AÑO" : "1823"
+    }
+  }, {
+    "ID62" : {
+      "COMPOSITOR" : "Wolfgang Amadeus Mozart",
+      "ARCHIVO" : "SerennataNoctturna,K239.ogg",
+      "NOMBRE_CANCION" : "Serenata nocturna",
+      "GENERO" : "Classical",
+      "AÑO" : "1776"
+    }
+  }, {
+    "ID63" : {
+      "COMPOSITOR" : "George Frideric Handel",
+      "ARCHIVO" : "Serse,HWV40-Largo.ogg",
+      "NOMBRE_CANCION" : "Largo (Serse)",
+      "GENERO" : "Classical",
+      "AÑO" : "1734"
+    }
+  }, {
+    "ID64" : {
+      "COMPOSITOR" : "Antonín Leopold Dvořák",
+      "ARCHIVO" : "SlavonicDanceInEMinor,Op.46-2.ogg",
+      "NOMBRE_CANCION" : "Danza eslava",
+      "GENERO" : "Classical",
+      "AÑO" : "1886"
+    }
+  }, {
+    "ID65" : {
+      "COMPOSITOR" : "Peter Ilyich Tchaikovsky",
+      "ARCHIVO" : "SleepingBeauty,Op.66-Introduction.ogg",
+      "NOMBRE_CANCION" : "Bella durmienta - Introducción",
+      "GENERO" : "Classical",
+      "AÑO" : "1889"
+    }
+  }, {
+    "ID66" : {
+      "COMPOSITOR" : "George Frideric Handel",
+      "ARCHIVO" : "Solomon,HWV67-ArrivalOfTheQueenOfSheba.ogg",
+      "NOMBRE_CANCION" : "Llegada de la reina de Saba (Salomon)",
+      "GENERO" : "Classical",
+      "AÑO" : "1749"
+    }
+  }, {
+    "ID67" : {
+      "COMPOSITOR" : "Felix Mendelssohn",
+      "ARCHIVO" : "SongWithoutWordsForPianoNum30InA,Op.62-6,-Frühlingslied-.ogg",
+      "NOMBRE_CANCION" : "Cancion sin palabras para piano n.º 30. canción de primavera",
+      "GENERO" : "Classical",
+      "AÑO" : "1841"
+    }
+  }, {
+    "ID68" : {
+      "COMPOSITOR" : "Franz Joseph Haydn",
+      "ARCHIVO" : "StringQuartetInC,Op.76-3,H3-77,-Emperor-[Excerpt].ogg",
+      "NOMBRE_CANCION" : "Cuarteto de cuerta en Do, Emperador",
+      "GENERO" : "Classical",
+      "AÑO" : "1797"
+    }
+  }, {
+    "ID69" : {
+      "COMPOSITOR" : "Ludwig van Beethoven",
+      "ARCHIVO" : "SymphonyNo.5,1stmovement.ogg",
+      "NOMBRE_CANCION" : "Sinfonía n.º5 - Primer movimiento",
+      "GENERO" : "Classical",
+      "AÑO" : "1808"
+    }
+  }, {
+    "ID70" : {
+      "COMPOSITOR" : "Franz Joseph Haydn",
+      "ARCHIVO" : "SymphonyNo.94,-Surprise-,2ndMovement.ogg",
+      "NOMBRE_CANCION" : "Sinfonía n.º 94, Sorpresa - Segundo movimiento",
+      "GENERO" : "Classical",
+      "AÑO" : "1791"
+    }
+  }, {
+    "ID71" : {
+      "COMPOSITOR" : "Wolfgang Amadeus Mozart",
+      "ARCHIVO" : "SymphonyNum40InGMinor,K550-Mvt.1.ogg",
+      "NOMBRE_CANCION" : "Sinfonía n.º 40 en Si menor - Primer movimiento",
+      "GENERO" : "Classical",
+      "AÑO" : "1788"
+    }
+  }, {
+    "ID72" : {
+      "COMPOSITOR" : "Felix Mendelssohn",
+      "ARCHIVO" : "SymphonyNum4InA,Op.90,-Italian-.ogg",
+      "NOMBRE_CANCION" : "Sinfonía n.º 4 en La, Italiana",
+      "GENERO" : "Classical",
+      "AÑO" : "1833"
+    }
+  }, {
+    "ID73" : {
+      "COMPOSITOR" : "Gustav Mahler",
+      "ARCHIVO" : "SymphonyNum5InCSharpMinor-Adagietto.ogg",
+      "NOMBRE_CANCION" : "Sinfonía n.º 5  - Adagietto",
+      "GENERO" : "Classical",
+      "AÑO" : "1902"
+    }
+  }, {
+    "ID74" : {
+      "COMPOSITOR" : "Franz Peter Schubert",
+      "ARCHIVO" : "SymphonyNum8InBMinor,D759,-Unfinished--2.AndanteConMoto.ogg",
+      "NOMBRE_CANCION" : "Sinfonía n.º 8, Inacabada",
+      "GENERO" : "Classical",
+      "AÑO" : "1822"
+    }
+  }, {
+    "ID75" : {
+      "COMPOSITOR" : "Antonín Leopold Dvořák",
+      "ARCHIVO" : "SymphonyNum9InEMinor,Op.95,B178,-FromTheNewWorld--2.Largo.ogg",
+      "NOMBRE_CANCION" : "Largo - Sinfonía n.º 9, Desde el nuevo mundo ",
+      "GENERO" : "Classical",
+      "AÑO" : "1893"
+    }
+  }, {
+    "ID76" : {
+      "COMPOSITOR" : "Nikolai Rimsky-Korsakov",
+      "ARCHIVO" : "TaleOfTsarSaltan-DanceOfTheBumbleBee.ogg",
+      "NOMBRE_CANCION" : "El vuelo del moscardón (Cuento de Tsar Saltan)",
+      "GENERO" : "Classical",
+      "AÑO" : "1900"
+    }
+  }, {
+    "ID77" : {
+      "COMPOSITOR" : "Wilhelm Richard Wagner",
+      "ARCHIVO" : "Tannhäuser-ArrivalOfTheGuestsAtWartburg.ogg",
+      "NOMBRE_CANCION" : "Llegada de los invitados a Wartburg (Tannhäuser)",
+      "GENERO" : "Classical",
+      "AÑO" : "1845"
+    }
+  }, {
+    "ID78" : {
+      "COMPOSITOR" : "Jules Massenet",
+      "ARCHIVO" : "Thaïs-Méditation.ogg",
+      "NOMBRE_CANCION" : "Meditación (Thaïs)",
+      "GENERO" : "Classical",
+      "AÑO" : "1894"
+    }
+  }, {
+    "ID79" : {
+      "COMPOSITOR" : "Bedřich Smetana",
+      "ARCHIVO" : "TheBarteredBride-Overture.ogg",
+      "NOMBRE_CANCION" : "La novia vendida - Obertura",
+      "GENERO" : "Classical",
+      "AÑO" : "1866"
+    }
+  }, {
+    "ID80" : {
+      "COMPOSITOR" : "Giuseppe Verdi",
+      "ARCHIVO" : "TheForceOfDestiny-Overture.ogg",
+      "NOMBRE_CANCION" : "La fuerza des destino - Obertura",
+      "GENERO" : "Classical",
+      "AÑO" : "1862"
+    }
+  }, {
+    "ID81" : {
+      "COMPOSITOR" : "Wolfgang Amadeus Mozart",
+      "ARCHIVO" : "TheMagicFlute-Overture.ogg",
+      "NOMBRE_CANCION" : "La flauta mágica - Obertura",
+      "GENERO" : "Classical",
+      "AÑO" : "1791"
+    }
+  }, {
+    "ID82" : {
+      "COMPOSITOR" : "Wolfgang Amadeus Mozart",
+      "ARCHIVO" : "TheMarriageOfFigaro-March.ogg",
+      "NOMBRE_CANCION" : "La boda de fígaro - Marcha",
+      "GENERO" : "Classical",
+      "AÑO" : "1786"
+    }
+  }, {
+    "ID83" : {
+      "COMPOSITOR" : "Wolfgang Amadeus Mozart",
+      "ARCHIVO" : "TheMarriageOfFigaro-Overture.ogg",
+      "NOMBRE_CANCION" : "La boda de fígaro - Obertura",
+      "GENERO" : "Classical",
+      "AÑO" : "1786"
+    }
+  }, {
+    "ID84" : {
+      "COMPOSITOR" : "Bedřich Smetana",
+      "ARCHIVO" : "TheMoldau.ogg",
+      "NOMBRE_CANCION" : "El Moldau",
+      "GENERO" : "Classical",
+      "AÑO" : "1875"
+    }
+  }, {
+    "ID85" : {
+      "COMPOSITOR" : "Peter Ilyich Tchaikovsky",
+      "ARCHIVO" : "TheNutcracker,Op.71-WaltzOfTheFlowers.ogg",
+      "NOMBRE_CANCION" : "Vals de las flores (el cascanueces)",
+      "GENERO" : "Classical",
+      "AÑO" : "1892"
+    }
+  }, {
+    "ID86" : {
+      "COMPOSITOR" : "Jacques Offenbach",
+      "ARCHIVO" : "TheTalesOfHoffmann-Barcarolle.ogg",
+      "NOMBRE_CANCION" : "Barcarola (Los cuentos de Hoffmann)",
+      "GENERO" : "Classical",
+      "AÑO" : "1864"
+    }
+  }, {
+    "ID87" : {
+      "COMPOSITOR" : "Johann Sebastian Bach",
+      "ARCHIVO" : "Toccata&FugueInDMinor.BWV565.ogg",
+      "NOMBRE_CANCION" : "Tocata & Fuga",
+      "GENERO" : "Classical",
+      "AÑO" : "1709"
+    }
+  }, {
+    "ID88" : {
+      "COMPOSITOR" : "Johann Strauss Jr.",
+      "ARCHIVO" : "TritchTratchPolka.ogg",
+      "NOMBRE_CANCION" : "Polca Tritsch Tratsch",
+      "GENERO" : "Classical",
+      "AÑO" : "1858"
+    }
+  }, {
+    "ID89" : {
+      "COMPOSITOR" : "Franz Joseph Haydn",
+      "ARCHIVO" : "TrumpetConcertoInEFlat,H7E-1-Allegro.ogg",
+      "NOMBRE_CANCION" : "Concierto para trompeta",
+      "GENERO" : "Classical",
+      "AÑO" : "1796"
+    }
+  }, {
+    "ID90" : {
+      "COMPOSITOR" : "Henry Purcell",
+      "ARCHIVO" : "TrumpetTune&Air.ogg",
+      "NOMBRE_CANCION" : "Tuna de trompeta y aire",
+      "GENERO" : "Classical",
+      "AÑO" : "1685"
+    }
+  }, {
+    "ID91" : {
+      "COMPOSITOR" : "Jean Sibelius",
+      "ARCHIVO" : "ValseTriste,Op.44-1.ogg",
+      "NOMBRE_CANCION" : "Vals triste, Op. 44/1",
+      "GENERO" : "Classical",
+      "AÑO" : "1903"
+    }
+  }, {
+    "ID92" : {
+      "COMPOSITOR" : "Johann Strauss Jr.",
+      "ARCHIVO" : "ViennaBloodWaltz,Op.354.ogg",
+      "NOMBRE_CANCION" : "Vlas sangre vienesa",
+      "GENERO" : "Classical",
+      "AÑO" : "1899"
+    }
+  }, {
+    "ID93" : {
+      "COMPOSITOR" : "Antonio Vivaldi",
+      "ARCHIVO" : "ViolinConcertoInE,Op.8-1,RV269,-TheFourSeasons[Spring]-.ogg",
+      "NOMBRE_CANCION" : "Primavera (las cuatro estaciones)",
+      "GENERO" : "Classical",
+      "AÑO" : "1725"
+    }
+  }, {
+    "ID94" : {
+      "COMPOSITOR" : "Felix Mendelssohn",
+      "ARCHIVO" : "ViolinConcertoInEMinor,Op.64-Mvt.2.ogg",
+      "NOMBRE_CANCION" : "Concierto para violín en Sol menor - Segundo movimiento",
+      "GENERO" : "Classical",
+      "AÑO" : "1845"
+    }
+  }, {
+    "ID95" : {
+      "COMPOSITOR" : "Wolfgang Amadeus Mozart",
+      "ARCHIVO" : "ViolinConcertoNum3InG,K216-Mvt.1.ogg",
+      "NOMBRE_CANCION" : "Concierto para violín n.º 3 - Primer movimiento",
+      "GENERO" : "Classical",
+      "AÑO" : "1775"
+    }
+  }, {
+    "ID96" : {
+      "COMPOSITOR" : "Wolfgang Amadeus Mozart",
+      "ARCHIVO" : "ViolinConcertoNum5InA,K219,-Turkish--Mvt.2.ogg",
+      "NOMBRE_CANCION" : "Concierto para violín n.º5, Turco - Segundo movimiento",
+      "GENERO" : "Classical",
+      "AÑO" : "1775"
+    }
+  }, {
+    "ID97" : {
+      "COMPOSITOR" : "Johannes Brahms",
+      "ARCHIVO" : "Waltz,Op.39-15.ogg",
+      "NOMBRE_CANCION" : "Vals. Op. 39/15",
+      "GENERO" : "Classical",
+      "AÑO" : "1865"
+    }
+  }, {
+    "ID98" : {
+      "COMPOSITOR" : "George Frideric Handel",
+      "ARCHIVO" : "WaterMusicSuiteNum2InD,HWV349.ogg",
+      "NOMBRE_CANCION" : "Suite musica auatica n.º 2",
+      "GENERO" : "Classical",
+      "AÑO" : "1717"
+    }
+  }, {
+    "ID99" : {
+      "COMPOSITOR" : "Johann Strauss Jr.",
+      "ARCHIVO" : "WheretheLemonsBloom,Op.364.ogg",
+      "NOMBRE_CANCION" : "Donde florecen los limones",
+      "GENERO" : "Classical",
+      "AÑO" : "1889"
+    }
+  } ]
+}

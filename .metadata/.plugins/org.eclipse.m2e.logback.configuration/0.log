@@ -1,0 +1,247 @@
+2018-07-17 19:57:11,076 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-07-17 19:57:30,624 [Worker-8: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.angelgutlop:jsonFile:0.0.1-SNAPSHOT @ D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\pom.xml.
+2018-07-17 19:57:32,707 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 19:57:32,707 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-17 19:57:32,710 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 19:57:32,710 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-17 19:57:40,643 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 19:57:40,643 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-17 19:57:40,645 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 19:57:40,645 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-17 19:58:33,599 [Worker-8: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 19:58:33,599 [Worker-8: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-17 19:58:33,600 [Worker-8: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 19:58:33,601 [Worker-8: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-17 20:00:00,226 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 20:00:00,226 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-17 20:00:00,227 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 20:00:00,227 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-17 20:01:57,415 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 20:01:57,416 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-17 20:01:57,416 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 20:01:57,417 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-17 20:03:28,966 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 20:03:28,966 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-17 20:03:28,967 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 20:03:28,967 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-17 20:08:35,420 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 20:08:35,420 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-17 20:08:35,421 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 20:08:35,422 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-17 20:14:48,332 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 20:14:48,332 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-17 20:14:48,334 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 20:14:48,334 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-17 20:15:34,919 [Worker-8: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 20:15:34,920 [Worker-8: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-17 20:15:34,920 [Worker-8: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 20:15:34,921 [Worker-8: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-17 20:20:08,637 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 20:20:08,637 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-17 20:20:08,638 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 20:20:08,639 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-17 20:20:49,890 [Worker-0: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.angelgutlop:jsonFile:0.0.1-SNAPSHOT @ D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\pom.xml.
+2018-07-17 20:20:50,391 [Worker-0: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/ijabz/maven/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+2018-07-17 20:20:50,588 [Worker-0: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+2018-07-17 20:20:50,620 [Worker-0: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+2018-07-17 20:20:50,707 [Worker-0: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/ijabz/maven/junit/junit/4.10/junit-4.10.pom
+2018-07-17 20:20:50,730 [Worker-0: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2018-07-17 20:20:50,761 [Worker-0: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2018-07-17 20:20:50,844 [Worker-0: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/ijabz/maven/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2018-07-17 20:20:50,870 [Worker-0: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2018-07-17 20:20:50,921 [Worker-0: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2018-07-17 20:20:51,014 [Worker-0: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/ijabz/maven/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2018-07-17 20:20:51,040 [Worker-0: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2018-07-17 20:20:51,081 [Worker-0: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2018-07-17 20:20:51,206 [Worker-0: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/ijabz/maven/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar
+2018-07-17 20:20:51,232 [Worker-0: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar
+2018-07-17 20:20:51,291 [Worker-0: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar
+2018-07-17 20:20:51,572 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 20:20:51,572 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-17 20:20:51,573 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 20:20:51,574 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-17 20:20:52,706 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 20:20:52,706 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-17 20:20:52,707 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 20:20:52,708 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-17 20:20:52,877 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/ijabz/maven/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1-sources.jar
+2018-07-17 20:20:53,011 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1-sources.jar
+2018-07-17 20:20:53,077 [Worker-1: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1-sources.jar
+2018-07-17 20:20:53,216 [Worker-1: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.googlecode.json-simple:json-simple:1.1.1
+2018-07-17 20:20:53,788 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 20:20:53,788 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-17 20:20:53,789 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 20:20:53,789 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-17 20:25:21,878 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 20:25:21,878 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-17 20:25:21,879 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 20:25:21,879 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-17 20:25:46,966 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 20:25:46,966 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-17 20:25:46,967 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 20:25:46,967 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-18 06:12:27,368 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-07-18 06:12:29,380 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 06:12:29,381 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-18 06:12:29,383 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 06:12:29,384 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-18 06:30:52,160 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 06:30:52,160 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-18 06:30:52,160 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 06:30:52,160 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-18 06:46:32,154 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 06:46:32,154 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-18 06:46:32,154 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 06:46:32,154 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-18 06:54:33,250 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 06:54:33,250 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-18 06:54:33,250 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 06:54:33,250 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-18 07:01:54,350 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 07:01:54,350 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-18 07:01:54,350 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 07:01:54,350 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-18 07:06:03,780 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 07:06:03,780 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-18 07:06:03,780 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 07:06:03,780 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-18 07:07:49,663 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 07:07:49,663 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-18 07:07:49,663 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 07:07:49,663 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-18 07:15:55,467 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 07:15:55,467 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-18 07:15:55,467 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 07:15:55,467 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-18 07:17:10,007 [Worker-50: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 07:17:10,007 [Worker-50: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-18 07:17:10,023 [Worker-50: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 07:17:10,023 [Worker-50: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-18 07:19:06,066 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 07:19:06,066 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-18 07:19:06,066 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 07:19:06,066 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-18 07:49:49,013 [Worker-64: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 07:49:49,014 [Worker-64: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-18 07:49:49,016 [Worker-64: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 07:49:49,016 [Worker-64: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-18 07:55:50,073 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 07:55:50,073 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-18 07:55:50,074 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 07:55:50,074 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-18 08:04:42,195 [Worker-72: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.angelgutlop:jsonFile:0.0.1-SNAPSHOT @ D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\pom.xml.
+2018-07-18 08:04:42,684 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/ijabz/maven/com/fasterxml/jackson/core/jackson-databind/2.9.6/jackson-databind-2.9.6.pom
+2018-07-18 08:04:42,874 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.9.6/jackson-databind-2.9.6.pom
+2018-07-18 08:04:42,908 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.9.6/jackson-databind-2.9.6.pom
+2018-07-18 08:04:42,997 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/ijabz/maven/com/fasterxml/jackson/jackson-base/2.9.6/jackson-base-2.9.6.pom
+2018-07-18 08:04:43,022 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-base/2.9.6/jackson-base-2.9.6.pom
+2018-07-18 08:04:43,059 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-base/2.9.6/jackson-base-2.9.6.pom
+2018-07-18 08:04:43,142 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/ijabz/maven/com/fasterxml/jackson/jackson-bom/2.9.6/jackson-bom-2.9.6.pom
+2018-07-18 08:04:43,167 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.9.6/jackson-bom-2.9.6.pom
+2018-07-18 08:04:43,202 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.9.6/jackson-bom-2.9.6.pom
+2018-07-18 08:04:43,286 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/ijabz/maven/com/fasterxml/jackson/jackson-parent/2.9.1.1/jackson-parent-2.9.1.1.pom
+2018-07-18 08:04:43,313 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.9.1.1/jackson-parent-2.9.1.1.pom
+2018-07-18 08:04:43,343 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.9.1.1/jackson-parent-2.9.1.1.pom
+2018-07-18 08:04:43,430 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/ijabz/maven/com/fasterxml/oss-parent/33/oss-parent-33.pom
+2018-07-18 08:04:43,456 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/33/oss-parent-33.pom
+2018-07-18 08:04:43,495 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/33/oss-parent-33.pom
+2018-07-18 08:04:43,583 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/ijabz/maven/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.pom
+2018-07-18 08:04:43,610 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.pom
+2018-07-18 08:04:43,653 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.pom
+2018-07-18 08:04:43,746 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/ijabz/maven/com/fasterxml/jackson/jackson-parent/2.9.0/jackson-parent-2.9.0.pom
+2018-07-18 08:04:43,772 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.9.0/jackson-parent-2.9.0.pom
+2018-07-18 08:04:43,834 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.9.0/jackson-parent-2.9.0.pom
+2018-07-18 08:04:43,917 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/ijabz/maven/com/fasterxml/oss-parent/28/oss-parent-28.pom
+2018-07-18 08:04:43,942 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/28/oss-parent-28.pom
+2018-07-18 08:04:43,984 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/28/oss-parent-28.pom
+2018-07-18 08:04:44,071 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/ijabz/maven/com/fasterxml/jackson/core/jackson-core/2.9.6/jackson-core-2.9.6.pom
+2018-07-18 08:04:44,096 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.6/jackson-core-2.9.6.pom
+2018-07-18 08:04:44,128 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.6/jackson-core-2.9.6.pom
+2018-07-18 08:04:44,213 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/ijabz/maven/com/fasterxml/jackson/core/jackson-databind/2.9.6/jackson-databind-2.9.6.jar
+2018-07-18 08:04:44,289 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/ijabz/maven/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar
+2018-07-18 08:04:44,370 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/ijabz/maven/com/fasterxml/jackson/core/jackson-core/2.9.6/jackson-core-2.9.6.jar
+2018-07-18 08:04:44,411 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.9.6/jackson-databind-2.9.6.jar
+2018-07-18 08:04:44,704 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.9.6/jackson-databind-2.9.6.jar
+2018-07-18 08:04:44,734 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar
+2018-07-18 08:04:44,771 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar
+2018-07-18 08:04:44,806 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.6/jackson-core-2.9.6.jar
+2018-07-18 08:04:44,883 [Worker-72: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.6/jackson-core-2.9.6.jar
+2018-07-18 08:04:45,531 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 08:04:45,531 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-18 08:04:45,533 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 08:04:45,533 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-18 08:04:46,663 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 08:04:46,663 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-18 08:04:46,668 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 08:04:46,668 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-18 08:04:46,806 [Worker-79: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/ijabz/maven/com/fasterxml/jackson/core/jackson-databind/2.9.6/jackson-databind-2.9.6-sources.jar
+2018-07-18 08:04:46,950 [Worker-79: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.9.6/jackson-databind-2.9.6-sources.jar
+2018-07-18 08:04:47,228 [Worker-79: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.9.6/jackson-databind-2.9.6-sources.jar
+2018-07-18 08:04:47,337 [Worker-79: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.9.6
+2018-07-18 08:04:47,417 [Worker-79: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/ijabz/maven/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0-sources.jar
+2018-07-18 08:04:47,444 [Worker-79: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0-sources.jar
+2018-07-18 08:04:47,510 [Worker-79: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0-sources.jar
+2018-07-18 08:04:47,690 [Worker-79: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.9.0
+2018-07-18 08:04:47,771 [Worker-79: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/ijabz/maven/com/fasterxml/jackson/core/jackson-core/2.9.6/jackson-core-2.9.6-sources.jar
+2018-07-18 08:04:47,803 [Worker-79: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.6/jackson-core-2.9.6-sources.jar
+2018-07-18 08:04:48,032 [Worker-79: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.6/jackson-core-2.9.6-sources.jar
+2018-07-18 08:04:48,186 [Worker-79: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.9.6
+2018-07-18 08:04:48,339 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 08:04:48,339 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-18 08:04:48,340 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 08:04:48,340 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-18 08:06:10,408 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 08:06:10,408 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-18 08:06:10,409 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 08:06:10,409 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-18 08:09:35,180 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 08:09:35,180 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-18 08:09:35,181 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 08:09:35,181 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-18 08:33:16,471 [Worker-2: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-07-18 08:33:18,298 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 08:33:18,299 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-18 08:33:18,301 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 08:33:18,303 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-18 08:39:49,621 [Worker-3: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 08:39:49,621 [Worker-3: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-18 08:39:49,622 [Worker-3: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 08:39:49,622 [Worker-3: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-18 08:40:44,592 [Worker-14: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 08:40:44,592 [Worker-14: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-18 08:40:44,593 [Worker-14: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 08:40:44,593 [Worker-14: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-18 08:45:26,913 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 08:45:26,913 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-18 08:45:26,914 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 08:45:26,914 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-18 08:48:12,973 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 08:48:12,973 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-18 08:48:12,975 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 08:48:12,975 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-18 08:49:37,541 [Worker-16: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 08:49:37,542 [Worker-16: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-18 08:49:37,544 [Worker-16: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 08:49:37,544 [Worker-16: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-18 08:49:45,196 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 08:49:45,196 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-18 08:49:45,197 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 08:49:45,198 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-18 09:05:05,556 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 09:05:05,557 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-18 09:05:05,558 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 09:05:05,558 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-18 09:05:24,996 [Worker-26: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 09:05:24,996 [Worker-26: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-18 09:05:24,997 [Worker-26: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-18 09:05:24,997 [Worker-26: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-31 16:56:49,943 [Worker-10: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-07-31 16:56:52,931 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-31 16:56:52,932 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-31 16:56:52,934 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-31 16:56:52,934 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources
+2018-07-31 18:28:32,031 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-07-31 18:28:34,643 [Worker-1: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-31 18:28:34,643 [Worker-1: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\main\resources
+2018-07-31 18:28:34,645 [Worker-1: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-31 18:28:34,645 [Worker-1: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\MisDocumentos\Android\ProyectosPersonales\TestMusical\jsonFile\src\test\resources

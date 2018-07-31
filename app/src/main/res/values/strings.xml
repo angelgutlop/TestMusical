@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestMusical</string>
+    <string name="nuevo_juego">JUGAR</string>
+    <string name="maxima_puntuacion">Puntuación máxima</string>
+    <string name="Last_score">Ultima puntuación</string>
+
+    <string name="tipo_pregunta_año_texto">¿En que año se compuso esta canción?</string>
+    <string name="tipo_pregunta_compositor_texto">¿Quién compuso esta canción?</string>
+    <string name="tipo_pregunta_nombre_canción_texto">¿Cómo se llama esta canción?</string>
+
+    <string name="borrar_scores">Borrar marcas</string>
+
+
+</resources>

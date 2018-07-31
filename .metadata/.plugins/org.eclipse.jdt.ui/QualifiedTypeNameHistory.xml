@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.jaudiotagger.audio.AudioHeader"/>
+<fullyQualifiedTypeName name="javax.swing.text.html.HTML.Tag"/>
+<fullyQualifiedTypeName name="org.jaudiotagger.audio.AudioFile"/>
+<fullyQualifiedTypeName name="org.jaudiotagger.audio.AudioFileIO"/>
+<fullyQualifiedTypeName name="org.jaudiotagger.tag.Tag"/>
+<fullyQualifiedTypeName name="org.jaudiotagger.tag.FieldKey"/>
+<fullyQualifiedTypeName name="org.json.simple.JSONArray"/>
+<fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ObjectMapper"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
+<fullyQualifiedTypeName name="org.json.simple.JSONObject"/>
+<fullyQualifiedTypeName name="java.util.TreeSet"/>
+</qualifiedTypeNameHistroy>

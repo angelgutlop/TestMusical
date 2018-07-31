@@ -1,0 +1,11 @@
+albinoni.jpg	 handel.jpg	  pregunta.png	       strauss-jr.jpg
+bach.jpg	 haydn.jpg	  purcell.jpg	       suppe.jpg
+Beethoven.jpg	 l.txt		  ravel.jpg	       tchaikovsky.jpg
+bizet.jpg	 liszt.jpg	  Rimsky-Korsakov.jpg  trofeo.jpg
+brahms.jpg	 mahler.jpg	  rossini.jpg	       verdi.jpg
+chopin.jpg	 massenet.jpg	  rubinstein.jpg       vivaldi.jpg
+delibes_leo.jpg  mendelssohn.jpg  schubert.jpg	       wagner.jpg
+dvorak.jpg	 mozart.jpg	  schumann.jpg	       weber.jpg
+elgar.jpg	 pachelbel.jpeg   sibelius.jpg
+gluck.jpg	 pachelbel.jpg	  SmetanaGR.jpg
+grieg.jpg	 pregunta.jpg	  strauss.jpg
