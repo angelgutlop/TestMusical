@@ -84,14 +84,17 @@
         android:id="@+id/imageView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="24dp"
+        android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginLeft="16dp"
         android:layout_marginRight="8dp"
         android:layout_marginStart="16dp"
-        app:layout_constraintBottom_toTopOf="@+id/nuevo_juego_button"
+        app:layout_constraintBottom_toBottomOf="@+id/fondo"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.487"
         app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/last_score-text"
+        app:layout_constraintVertical_bias="0.837"
         app:srcCompat="@drawable/musicalnote_violet" />
 
     <Button
@@ -99,7 +102,7 @@
         style="@style/Widget.AppCompat.Button.Borderless"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="24dp"
+        android:layout_marginBottom="8dp"
         android:layout_marginEnd="16dp"
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
@@ -108,9 +111,9 @@
         android:text="@string/nuevo_juego"
         android:textColor="@android:color/white"
         android:textSize="30sp"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/animacion_correcto"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
@@ -162,5 +165,19 @@
         app:layout_constraintBottom_toTopOf="@+id/last_score-text"
         app:layout_constraintStart_toStartOf="@+id/max_Score_textView"
         app:layout_constraintTop_toBottomOf="@+id/last_score-text" />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/animacion_correcto"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+
+        android:padding="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:lottie_autoPlay="true"
+        app:lottie_fileName="animaciones/ondas.json"
+        app:lottie_loop="true" />
 
 </android.support.constraint.ConstraintLayout>

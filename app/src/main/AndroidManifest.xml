@@ -23,9 +23,12 @@
         </activity>
 
         <provider
-            android:authorities="com.example.angel.testmusical.traksProvider"
-            android:name=".Database.generated.TrakProvider"></provider>
+            android:name=".Database.generated.TrakProvider"
+            android:authorities="com.example.angel.testmusical.traksProvider" />
+
+        <activity
+            android:name=".AjustesActivity"
+            android:label="@string/title_activity_ajustes"></activity>
     </application>
-    
 
 </manifest>

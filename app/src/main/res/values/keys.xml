@@ -7,4 +7,7 @@
     <string name="last_score_key">last_score_key</string>
     <string name="last_score_nquestions_key">last_score_nquestions_key</string>
 
+    <string name="nquestions_key">nquestions_key</string>
+
+
 </resources>

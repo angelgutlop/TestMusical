@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="listArray_default">10 preguntas</string>
+    <string-array name="listArray">
+        <item>5 preguntas </item>
+        <item>10 preguntas</item>
+        <item>25 preguntas</item>
+        <item>50 preguntas</item>
+    </string-array>
+
+    <string name="listValues_default">10</string>
+    <string-array name="listValues">
+        <item>5</item>
+        <item>10</item>
+        <item>25</item>
+        <item>50</item>
+    </string-array>
+</resources>

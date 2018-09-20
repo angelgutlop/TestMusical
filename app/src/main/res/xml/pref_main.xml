@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:defaultValue="@string/listValues_default"
+        android:entries="@array/listArray"
+        android:entryValues="@array/listValues"
+        android:key="@string/nquestions_key"
+        android:summary="@string/listArray_default"
+        android:title="Número de preguntas" />
+
+</PreferenceScreen>

@@ -63,11 +63,12 @@
         android:textAllCaps="false"
         android:textColor="@color/color_clouds"
         android:textStyle="bold"
+        android:visibility="visible"
         app:layout_constraintBottom_toTopOf="@+id/respuestaBButton"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/preguntaTextView"
+        app:layout_constraintTop_toBottomOf="@+id/songDescriptionTextView"
         fbutton:buttonColor="@color/opcionBotonNormal"
         fbutton:cornerRadius="5dp"
         fbutton:shadowEnabled="false"
@@ -114,6 +115,7 @@
         android:textAllCaps="false"
         android:textColor="@color/color_clouds"
         android:textStyle="bold"
+        android:visibility="visible"
         app:layout_constraintBottom_toTopOf="@+id/respuestaDButton"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
@@ -130,7 +132,7 @@
 
         android:layout_width="254dp"
         android:layout_height="48dp"
-        android:layout_marginBottom="8dp"
+        android:layout_marginBottom="16dp"
         android:layout_marginEnd="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
@@ -154,22 +156,19 @@
         android:id="@+id/songDescriptionTextView"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp"
         android:gravity="center_horizontal"
-        android:text="Cancion Cancion\nAutor\n(año)"
+        android:text="Cancion \n autor (year)"
         android:textColor="@android:color/holo_orange_light"
         android:textSize="24sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@+id/guideline"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.507"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@+id/playerView" />
 
     <TextView
         android:id="@+id/questionProgreessTextView"
@@ -179,7 +178,8 @@
         android:layout_marginRight="16dp"
         android:layout_marginTop="16dp"
         android:text="#/##"
-        android:textColor="@android:color/background_light"
+        android:textColor="@color/color_midnight_blue"
+        android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -188,11 +188,53 @@
         android:id="@+id/preguntaTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
         android:layout_marginTop="8dp"
         android:text="¿Quién creó esta app?"
         android:textSize="24sp"
         android:textStyle="bold"
-        app:layout_constraintTop_toTopOf="@+id/guideline"
-        fbutton:layout_editor_absoluteX="8dp" />
+        app:layout_constraintBottom_toBottomOf="@+id/songDescriptionTextView"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/guideline" />
+
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/animacion_pregunta"
+        android:layout_width="113dp"
+        android:layout_height="102dp"
+
+        android:layout_marginLeft="8dp"
+
+
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:padding="0dp"
+        android:visibility="invisible"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:lottie_autoPlay="false"
+        app:lottie_fileName="animaciones/estrella.json"
+        app:lottie_loop="false" />
+
+    <TextView
+        android:id="@+id/texto_estado_pregunta_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:fontFamily="sans-serif-condensed"
+        android:text="CORRECTO!"
+        android:textColor="@color/color_amethyst"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/animacion_pregunta"
+        app:layout_constraintEnd_toEndOf="@+id/animacion_pregunta"
+        app:layout_constraintStart_toStartOf="@+id/animacion_pregunta"
+        app:layout_constraintTop_toTopOf="@+id/animacion_pregunta" />
 
 </android.support.constraint.ConstraintLayout>

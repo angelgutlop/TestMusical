@@ -7,22 +7,22 @@ public class TrakItem {
     public String genere;
     public String albumImageArt;
     public String trakname;
-    public String año;
+    public String anho;
 
 
-    public TrakItem(String trakname, String compositor, String musicalAsset, String genere, String año) {
+    public TrakItem(String trakname, String compositor, String musicalAsset, String genere, String anho) {
         this.trakname = trakname;
         this.compositor = compositor;
         this.genere = genere;
         this.musicalAsset = musicalAsset;
-        this.año = año;
+        this.anho = anho;
         this.albumImageArt = Compositores.getComposerImageName(compositor);
     }
 
 
     public String getDescription() {
 
-        return trakname + "\n" + compositor + "\n" + "(" + año + ")";
+        return trakname + "\n" + compositor + " (" + anho + ")";
     }
 
 }

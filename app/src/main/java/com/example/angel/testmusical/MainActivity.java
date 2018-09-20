@@ -27,7 +27,6 @@ import timber.log.Timber;
 
 public class MainActivity extends AppCompatActivity implements LoaderManager.LoaderCallbacks {
 
-    private static final int NUMBER_OF_QUESTIONS = 5;
 
     private static final int LOADER_TRAKS_ID = 001;
 
@@ -77,6 +76,10 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
 
                 break;
 
+            case R.id.ajustes_menu_item:
+                Intent intent = new Intent(this, AjustesActivity.class);
+                startActivity(intent);
+                break;
         }
         return super.onOptionsItemSelected(item);
     }
@@ -88,14 +91,16 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
 
         switch (id) {
             case R.id.nuevo_juego_button:
-                QuizUtils.initializeBatchOfQuestions(this, NUMBER_OF_QUESTIONS);
+                String defaultValue = getResources().getString(R.string.listValues_default);
+                int number_of_questions = Integer.parseInt(SharedPrefsUtils.getString(this, R.string.nquestions_key, defaultValue));
+                QuizUtils.initializeBatchOfQuestions(this, number_of_questions);
                 Intent intent = new Intent(this, QuizActivity.class);
                 startActivity(intent);
-                return;
+
         }
     }
 
-    @NonNull
+
     @Override
     public Loader onCreateLoader(int id, @Nullable Bundle args) {
 

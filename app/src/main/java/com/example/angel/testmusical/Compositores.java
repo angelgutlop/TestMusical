@@ -53,10 +53,8 @@ public class Compositores {
                 return "mahler.jpg";
             case "Henry Purcell":
                 return "purcell.jpg";
-
             case "Jacques Offenbach":
-                break;
-
+                return "offenbach.jpg";
             case "Jean Sibelius":
                 return "sibelius.jpg";
             case "Johann Pachelbel":
@@ -91,8 +89,6 @@ public class Compositores {
                 return "wagner.jpg";
             case "Wolfgang Amadeus Mozart":
                 return "mozart.jpg";
-
-
         }
         return getComposerImageName(IMAGENES.INCOGNITA);
     }
